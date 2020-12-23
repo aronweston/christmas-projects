@@ -14,12 +14,12 @@
 
 Missed Homework
 - [ ] [Week 1 - Day 3 - Word Guesser](https://gist.github.com/wofockham/61148df9403b3cfc2138#file-js-homework-3-md)
-- [ ] [Week 1 - Day 4 - Geometry Function Lab](https://gist.github.com/wofockham/dacf2da17c743afb2b17#geometry-function-lab)
-- [ ] [Week 1 - Day 4 - JavaScript Bank](https://gist.github.com/wofockham/dacf2da17c743afb2b17#javascript-bank)
+- [x] [Week 1 - Day 4 - Geometry Function Lab](https://gist.github.com/wofockham/dacf2da17c743afb2b17#geometry-function-lab)
+- [x] [Week 1 - Day 4 - JavaScript Bank](https://gist.github.com/wofockham/dacf2da17c743afb2b17#javascript-bank)
 - [ ] [Week 1 - Day 4 - Credit Card; get the triple number to work](https://gist.github.com/wofockham/dacf2da17c743afb2b17#credit-card-validation)
 
 Missed Warmups
-- [ ] [Scrabble Score](https://gist.github.com/gcrk/56df462d6c1a3b3d0008c6ed1cd72aeb)
+- [x] [Scrabble Score](https://gist.github.com/gcrk/56df462d6c1a3b3d0008c6ed1cd72aeb)
 - [ ] [Leap Year](https://gist.github.com/aronweston/b3df374f3bc7d0f8f81aa4c4d5ed920d)
 - [ ] [Anagram Detector](https://gist.github.com/aronweston/8c43480e8d979f2d4f855ddc4e0672a0)
 - [ ] [Beach Planner](https://gist.github.com/gcrk/3b24a1abb518e961c24c32bb7679f8c9)
